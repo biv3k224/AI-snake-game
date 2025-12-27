@@ -9,7 +9,7 @@ ___
 1️⃣ Clone the repository
 
 ```bash
-git clone <link>
+git clone [<link>](https://github.com/biv3k224/AI-snake-game.git)
 cd snake-ai
 ```
 
